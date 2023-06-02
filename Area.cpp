@@ -7,7 +7,8 @@ float area(float _b, float _h) {
 
 int main()
 {
-    // Calcula el puto area de un rectangulo
+    // Calcula el area de un rectangulo
+    
     float b;
     float h;
 
