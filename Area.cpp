@@ -18,7 +18,7 @@ int main()
 
     float A = area(b,h);
 
-    std::cout << "El area del rectangulo es: " << A << std::endl;
+    std::cout << "El area del rectangulo es: " << A << "cm << std::endl;
     return 0;
 
 }
