@@ -1,5 +1,5 @@
-# Area-de-rectangulo-en-Cpp
-Calcular el area de un rectangulo en Cpp
+# Area-de-rectángulo-en-Cpp
+Calcular el area de un rectángulo en Cpp
 
 <h1>El codigo es tan chiquito, pero funciona </h1>
 
